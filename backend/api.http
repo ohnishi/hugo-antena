@@ -1,0 +1,13 @@
+### フロアAPI
+
+GET https://api.dmm.com/affiliate/v3/FloorList?api_id=ss6vZPsSdSw7QNnqSmEG&affiliate_id=muhohoapp-990&output=json&callback=example
+
+### 動画
+
+GET https://api.dmm.com/affiliate/v3/ItemList?api_id=ss6vZPsSdSw7QNnqSmEG&affiliate_id=muhohoapp-990&site=FANZA&service=digital&floor=videoc&hits=100&offset=1&gte_date=2020-10-01T00:00:00&lte_date=2020-10-01T23:59:59&output=xml HTTP/1.1
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+
+### 同人
+
+https://api.dmm.com/affiliate/v3/ItemList?api_id=ss6vZPsSdSw7QNnqSmEG&affiliate_id=muhohoapp-990&site=FANZA&service=ebook&floor=comic&hits=100&offset=1&gte_date=2020-10-02T00:00:00&lte_date=2020-10-02T23:59:59&output=json

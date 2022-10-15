@@ -1,0 +1,47 @@
+[read_more]
+other = "Read More"
+
+[copyright]
+other = "Copyright"
+
+[all_rights]
+other = "All Rights Reserved"
+
+[share_on]
+other = "Share on"
+
+[featured_posts]
+other = "おすすめの投稿"
+
+[recent_posts]
+other = "最近の投稿"
+
+[404_title]
+other = "Lost"
+
+[could_not_find]
+other = "We couldn't find the page you're looking for"
+
+[go_back]
+other = "Go Back"
+
+[translations]
+other = "Translations"
+
+[categories]
+other = "カテゴリ"
+
+[tags]
+other = "タグ"
+
+[series]
+other = "シリーズ"
+
+[all_categories]
+other = "All Categories"
+
+[all_tags]
+other = "All Tags"
+
+[all_series]
+other = "All Series"

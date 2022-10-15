@@ -1,0 +1,16 @@
+---
+title: "{{ .Title }}"
+date: {{ .Date }}
+categories:
+- "{{ .Publisher }}"
+tags:
+{{ range $i, $category := $Categorys -}}
+- "{{ $category }}"
+{{ end }}
+sidebar: "right"
+---
+[![itbook-image]({{ .Image }})]({{ .LinkURL }}?tag=antena02-22)
+
+{{ range $i, $description := $Descriptions -}}
+{{ $description }}
+{{ end }}

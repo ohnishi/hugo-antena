@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://antena.dev/</loc>
+    <lastmod>2021-01-06T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://antena.dev/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://antena.dev/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://antena.dev/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/categories/book/</loc>
+    <lastmod>2021-01-06T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/categories/</loc>
+    <lastmod>2021-01-06T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://antena.dev/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://antena.dev/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://antena.dev/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/post/</loc>
+    <lastmod>2021-01-06T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/post/20210106/</loc>
+    <lastmod>2021-01-06T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/post/20210104/</loc>
+    <lastmod>2021-01-05T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/post/20201229/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/post/20201228/</loc>
+    <lastmod>2020-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/post/20201227/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/post/20201226/</loc>
+    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://antena.dev/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://antena.dev/pt/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://antena.dev/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://antena.dev/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://antena.dev/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://antena.dev/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://antena.dev/tags/"
+                />
+  </url>
+  
+</urlset>

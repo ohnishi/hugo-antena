@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "antena-dev"
+  },
+  "targets": {
+    "antena-dev": {
+      "hosting": {
+        "www": [
+          "antena-dev"
+        ]
+      }
+    }
+  }
+}
